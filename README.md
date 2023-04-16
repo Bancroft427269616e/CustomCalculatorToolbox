@@ -6,5 +6,4 @@ I may return to this project at a later date to add an additional app or extende
 
 Save the main.py and Click.mp3 files in the save project directory and run main.py in your IDE.
 Tkinter and Pygame or the only two dependencies you will need to run this program which you can install from the terminal using the following commands
-pip tkinter
-pip pygame
+pip tkinter and pip pygame
